@@ -13,6 +13,6 @@
     本项目开发仅供学习交流使用，不作商业用途，项目部分图片资源由 bilibili 安卓客户端提供，若涉及侵权，请邮作者修改
 ## 应用 demo[系统需安装 java 运行时环境 (JRE)]
     无需登录版本(无需连接数据库验证账号)
-    https://github.com/RyougiChan/LibraryManager/blob/master/LibraryManager.jar
+    https://github.com/RyougiChan/LibraryManager/blob/master/demo/LibraryManager.jar
     完整版本(需连接数据库验证账号)
-    https://github.com/RyougiChan/LibraryManager/blob/master/LibraryManager_logined.jar
+    https://github.com/RyougiChan/LibraryManager/blob/master/demo/LibraryManager_logined.jar
