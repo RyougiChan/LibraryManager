@@ -1,5 +1,4 @@
 # LibraryManager
-=======
 A library management system based on Java GUI, which is ready for searching of books as well as management of book, reader and etc..
 ==============================================
 ## Author
@@ -19,11 +18,9 @@ A library management system based on Java GUI, which is ready for searching of b
 ![Ryougi](https://github.com/RyougiChan/LibraryManager/blob/master/demo/index.png "index page")
 ## Application sample demo[Java Runtime Environment(JRE) is needed]
     Version 1 (Logined version, no need for validate account to login in)
-<<<<<<< HEAD
     https://github.com/RyougiChan/LibraryManager/blob/master/LibraryManager.jar
     Version 2 (Full version, A valid connection to the database is needed to validate the account to login)
     https://github.com/RyougiChan/LibraryManager/blob/master/LibraryManager_logined.jar
-=======
     https://github.com/RyougiChan/LibraryManager/blob/master/demo/LibraryManager.jar
     Version 2 (Full version, A valid connection to the database is needed to validate the account to login)
     https://github.com/RyougiChan/LibraryManager/blob/master/demo/LibraryManager_logined.jar
