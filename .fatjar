@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Jul 30 16:06:41 CST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\xiaoy\\workspace\\LibraryManager\\LibraryManager_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.ryougi.MainEntry
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
