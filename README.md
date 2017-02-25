@@ -17,6 +17,8 @@ A library management system based on Java GUI, which is ready for searching of b
     This project is used to study, and won't be used in commercial way.
     Some of the image source are stem from android application of bilibili, if involving infringement, 
     please mail to the author to modification.
+## DEMO IMAGE
+![Ryougi](https://github.com/RyougiChan/LibraryManager/blob/master/demo/index.png "index page")
 ## Application sample demo[Java Runtime Environment(JRE) is needed]
     Version 1 (Logined version, no need for validate account to login in)
 <<<<<<< HEAD
