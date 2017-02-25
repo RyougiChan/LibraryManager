@@ -14,6 +14,8 @@
     - 数据库：SQL Server 2008 r2
 ## 声明
     本项目开发仅供学习交流使用，不作商业用途，项目部分图片资源由 bilibili 安卓客户端提供，若涉及侵权，请邮作者修改
+## 图片
+![Ryougi](https://github.com/RyougiChan/LibraryManager/blob/master/demo/index.png "index page")
 ## 应用 demo[系统需安装 java 运行时环境 (JRE)]
     无需登录版本(无需连接数据库验证账号)
 <<<<<<< HEAD
