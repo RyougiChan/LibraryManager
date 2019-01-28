@@ -1,6 +1,7 @@
 # LibraryManager
-A library management system based on Java GUI, which is ready for searching of books as well as management of book, reader and etc..
-==============================================
+
+> A library management system based on Java GUI, which is ready for searching of books as well as management of book, reader and etc..
+
 ## Author
     RyougiChan (ryougi.chan.fire@gmail.com)
 ## Abstract
